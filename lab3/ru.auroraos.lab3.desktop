@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.lab3
+Exec=/usr/bin/ru.auroraos.lab3
+Name=Lab3
+Name[ru]=Лабораторная №3
+
+[X-Sailjail]
+Permissions=Audio;Camera;Documents;Downloads;Internet;Microphone;Music;Pictures;Videos
+OrganizationName=ru.auroraos
+ApplicationName=lab3
+ExecDBus=/usr/bin/ru.auroraos.lab3
